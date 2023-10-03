@@ -5,7 +5,7 @@ Materiale per il corso _[User Experience Design](https://github.com/polito-uxd-2
 ## Slides
 
 * [Introduzione al corso](./slides/P00-intro.pdf)
-* [What is HCI?](./slides/P01-whatisHCI.pdf)
+* [What is UXD?](./slides/P01-whatisUXD.pdf)
 
 ## Assignments
 * Assignment 1
