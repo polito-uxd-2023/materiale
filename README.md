@@ -9,7 +9,7 @@ Materiale per il corso _[User Experience Design](https://github.com/polito-uxd-2
 * [Needfinding](./slides/O2-needfinding.pdf)   
 * [Task analysis](./slides/03-tasks.pdf)
 * [Interaction with AI](./slides/04-AIinteraction.pdf)
-* [Gamification](,/slides/05-gamification.pdf)
+* [Gamification](./slides/05-gamification.pdf)
 
 ## Assignments
 * [Assignment 1](./assignments/A1-needfinding.pdf)
