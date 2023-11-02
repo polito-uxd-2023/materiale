@@ -10,9 +10,11 @@ Materiale per il corso _[User Experience Design](https://github.com/polito-uxd-2
 * [Task analysis](./slides/03-tasks.pdf)
 * [Interaction with AI](./slides/04-AIinteraction.pdf)
 * [Gamification](./slides/05-gamification.pdf)
+* [Storyboard](./slides/06-storyboards.pdf)
+* [Protoyping](./slides/07-prototyping.pdf)
 
 ## Assignments
 * [Assignment 1](./assignments/A1-needfinding.pdf)
-* Assignment 2
+* [Assignment 2](./assignments/A2-storyboard-paper-prototypes.pdf)
 * Assignment 3
 * Assignment 4
