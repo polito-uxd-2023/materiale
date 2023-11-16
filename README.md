@@ -12,8 +12,10 @@ Materiale per il corso _[User Experience Design](https://github.com/polito-uxd-2
 * [Gamification](./slides/05-gamification.pdf)
 * [Storyboard](./slides/06-storyboards.pdf)
 * [Protoyping](./slides/07-prototyping.pdf)
+  * [Exercise on low-fi prototypes](./slides/08b-low-fi-prototypes-exercise.pdf) 
 * [Design Theory, Principles, and Guidelines](./slides/08-design-principles.pdf)
-* [Exercise on low-fi prototypes](./slides/08b-low-fi-prototypes-exercise.pdf) 
+* [Heuristic Evaluation](./slides/09-heuristic-evaluation.pdf)
+  * [Exercise on heuristic evaluation](./slides/09b-heuristic-evaluation-exercise.pdf)
 
 ## Assignments
 * [Assignment 1](./assignments/A1-needfinding.pdf)
