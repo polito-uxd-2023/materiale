@@ -16,6 +16,9 @@ Materiale per il corso _[User Experience Design](https://github.com/polito-uxd-2
 * [Design Theory, Principles, and Guidelines](./slides/08-design-principles.pdf)
 * [Heuristic Evaluation](./slides/09-heuristic-evaluation.pdf)
   * [Exercise on heuristic evaluation](./slides/09b-heuristic-evaluation-exercise.pdf)
+* [Visual Design](./slides/10-visualdesign.pdf)
+* [Design Patterns](./slides/11-design-patterns.pdf)
+
 
 ## Assignments
 * [Assignment 1](./assignments/A1-needfinding.pdf)
