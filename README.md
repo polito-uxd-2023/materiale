@@ -18,6 +18,7 @@ Materiale per il corso _[User Experience Design](https://github.com/polito-uxd-2
   * [Exercise on heuristic evaluation](./slides/09b-heuristic-evaluation-exercise.pdf)
 * [Visual Design](./slides/10-visualdesign.pdf)
 * [Design Patterns](./slides/11-design-patterns.pdf)
+* [Neuroestetica](./slides/12-neuroestetica.pdf)
 
 
 ## Assignments
