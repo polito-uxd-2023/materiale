@@ -26,3 +26,5 @@ Materiale per il corso _[User Experience Design](https://github.com/polito-uxd-2
 * [Assignment 2](./assignments/A2-storyboard-paper-prototypes.pdf)
 * [Assignment 3](./assignments/A3-heuristic-evaluation.pdf)
 * Assignment 4
+
+Istruzioni e template per il [report finale](./assignments/final-report-instructions.pdf).
