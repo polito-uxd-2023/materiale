@@ -19,7 +19,7 @@ Materiale per il corso _[User Experience Design](https://github.com/polito-uxd-2
 * [Visual Design](./slides/10-visualdesign.pdf)
 * [Design Patterns](./slides/11-design-patterns.pdf)
 * [Neuroestetica](./slides/12-neuroestetica.pdf)
-* [High fidelity prototypes](./sildes/13-hi-fi-prototypes-with-examples.pdf)
+* [High fidelity prototypes](./slides/13-hi-fi-prototypes-with-examples.pdf)
 
 
 ## Assignments
